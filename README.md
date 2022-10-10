@@ -1,3 +1,3 @@
 # frequency-check
 
-# check frequencies of all occurrences
+check frequencies of all occurrences
